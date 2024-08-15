@@ -1,0 +1,52 @@
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap');
+
+body{
+    background: #141414c9;
+    padding: 20px;
+    font-family: 'Noto Serif Khojki', serif;
+    
+    
+}
+
+header{
+    color: white;
+    border: 0.09rem solid;
+    padding: 10px;
+    margin-bottom: 50px;
+    background-color: #212742d9;
+    text-align: center;
+}
+
+img{
+   border-radius: 40px;
+   width: 60px;
+   display: inline-block;
+   
+}
+h1{
+    color: white;
+}
+#datenow{
+    color: #2bff58;
+    font-size: 1.2rem;
+}
+
+input{
+    width: 260px;
+    height: 60px;
+    padding: 15px;
+}
+li{
+  margin-bottom: 20px;
+   font-size: 1.3rem;
+   color: white;
+   font-family: "Noto Serif Bengali", serif;
+}
+
+.P{
+   margin-top: 20px;;
+    font-size: 1.3rem;
+    color: ivory;
+    font-family: "Noto Serif Bengali", serif;
+}
