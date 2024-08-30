@@ -15,18 +15,36 @@ var M = document.getElementById("Model");
   case "":  p1.innerHTML =" No search model"; 
  break;
  
+ case "ASADUL":  p1.innerHTML = "আসাদুল নামে একজন অপারেটর Sorting & packing সেকশনের এই সফটওয়্যারটি বানিয়েছে"; 
+ break;
+ 
  case "W3060-001":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
  
  case "GP3060-027GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
  
+ 
+  case "SW3060-002GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
+ break;
+ 
+ 
  case "GP3060-022GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
+ break;
+ 
+ case "GP3060-032BE":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
  
  case "GP3060-004GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
  break;
  
+ case "GP36-052GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ case "GP36-052GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "GP36-052GRD":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
  case "W3060-013BRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
  
