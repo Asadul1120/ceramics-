@@ -20,6 +20,13 @@ var M = document.getElementById("Model");
  
  case "W3060-001":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
+
+  
+ case "GP3060-010BR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
+ break;
+ case "GP3060-037BK":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
+ break;
+ 
  
  case "GP3060-027GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
@@ -38,8 +45,49 @@ var M = document.getElementById("Model");
  case "GP3060-004GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
  break;
  
- case "GP36-052GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ case "W3060-042IVD":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
  break;
+ 
+ case "W3060-043GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "W3060-043GRD":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "DR3060-043B":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "GP3060-052GR":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "W3060-044GND":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ case "DR3060-044B":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ case "W3060-035GRD":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "W3060-042IVL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "W3060-045GRD":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "W3060-045GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "DR3060-042K":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "WR3060-046BRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "WR3060-046BRD":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
+ case "DR3060-046B":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ 
  case "GP36-052GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
  break;
  
@@ -49,6 +97,12 @@ var M = document.getElementById("Model");
  break;
  
  case "GP3060-025BE":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
+ break;
+ 
+ case "GP3060-009BL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
+ break;
+ 
+ case "DR3060-017B":  p1.innerHTML ="Model : "+ Rey +" <br/> = 08 pcs "; 
  break;
 
 case "W3060-040BED":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
@@ -148,9 +202,10 @@ break;
  break;
                 
  case "GP3060-059GRL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
+ break;
+ case "W3060-044GNL":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
  break;        
            
-
 case "GP3060-059B":  p1.innerHTML ="Model : "+ Rey +" <br/> = 06 pcs "; 
  break;
 
